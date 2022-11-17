@@ -1,0 +1,140 @@
+
+#outer{
+
+    min-height:1500px;
+    width:1000px;
+    //background:silver;
+    margin:50px 230px;
+    
+    }
+    .top1{
+    height:150px;
+    width:1000px;
+    background:#aa183f;
+    }
+    
+    
+    .a{
+    
+    height:150px;
+    width:500px;
+    background:#aa183f;
+    float:left;
+    padding-top:15px;
+    box-sizing:border-box;
+    padding-left:20px;
+    }
+     .a1{
+    color:white;
+    font-size:40px;
+    font-family:impact;
+    padding-top:30px;
+    box-sizing:border-box;
+    }
+    
+    .top2{
+    height:50px;
+    width:1000px;
+    background:black;
+    color:white;
+    margin-top:-20px;
+    box-sizing:border-box;
+    padding-right:20px;
+    }
+    
+    nav ul{
+    
+    list-style:none;
+    padding-right:20px;
+    }
+    
+    
+    
+    nav ul li{
+    
+    height:48px;
+    width:90px;
+    //background:aqua;
+    border-right:1px solid gray;
+    float:left;
+    text-align:center;
+    line-height:50px;
+    font-weight:bold;
+    //transform:translateY(12px);
+    //margin-left:0px;
+    box-sizing:border-box;
+    margin-left:20px;
+    padding-right:5px;
+    }
+    
+    
+    .top3{
+    
+    height:140px;
+    width:920px;
+    //background:red;
+    margin:20px 40px;
+    font-size:15px;
+    
+    
+    }
+    
+    .top4{
+    height:40px;
+    width:1000px;
+    //background:red;
+    
+    }
+    .top5{
+    height:160px;
+    width:1000px;
+    //background:green;
+    
+    }
+    
+    .top6{
+    height:535px;
+    width:1000px;
+    //background:pink;
+    margin-top:20px;
+    
+    
+    }
+    
+    
+    .t1{
+    height:470px;
+    width:293px;
+    background:purple;
+    float:left;
+    padding-top:11px;
+    text-align:center;
+    margin:20px;
+    color:white;
+    border:2px solid #d2691e;
+    box-sizing:border-box; 
+    
+    }
+    
+    .top7{
+    min-height:1060px;
+    width:1000px;
+    //background:yellow;
+    border:2px solid #ab183d;
+    margin:20px 0px;
+    padding:25px 30px;
+    box-sizing:border-box;
+    font-size:20px;
+    fonat-family:impact;
+    
+    
+    }
+    
+    .top8{
+    height:200px;
+    width:1000px;
+    //background:blue;
+    
+    
+    
+    }
